@@ -1,0 +1,3 @@
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/pdfium-download/CMakeFiles/rebuild_cache.dir
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/pdfium-download/CMakeFiles/edit_cache.dir
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/pdfium-download/CMakeFiles/pdfium-download.dir

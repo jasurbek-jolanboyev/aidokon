@@ -1,0 +1,1 @@
+ /home/serinaqu/Desktop/aidokon/.dart_tool/flutter_build/844fe263e9ffa89ed4e4286e4961127f/native_assets.json: 
