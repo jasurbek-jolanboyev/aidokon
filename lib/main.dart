@@ -391,9 +391,7 @@ class _MainPageState extends State<MainPage> {
 
     // Bonus awarding
     if (customerId != null && customerId.isNotEmpty) {
-      final pts = calculateBonusPoints(
-        total.toInt() - (eval['discount'] as num).toInt(),
-      );
+     final pts = calculateBonusPoints(total.toInt() - (eval['discount'] as num).toInt());
       bonusBalances[customerId] = (bonusBalances[customerId] ?? 0) + pts;
     }
 
