@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883820804034",
+    "project_id": "e-ehson",
+    "storage_bucket": "e-ehson.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883820804034:android:5ece1c36f01e971681c85b",
+        "android_client_info": {
+          "package_name": "com.example.aidokon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIt6RH_G47nrQzYh85YsQKU2Vbr7f0DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883820804034:android:13259a7bbebebf6a81c85b",
+        "android_client_info": {
+          "package_name": "com.serinaqu.eehson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIt6RH_G47nrQzYh85YsQKU2Vbr7f0DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

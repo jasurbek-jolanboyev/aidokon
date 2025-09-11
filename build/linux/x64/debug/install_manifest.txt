@@ -1,0 +1,16 @@
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/aidokon
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/lib/libprinting_plugin.so
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/lib/libpdfium.so
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/bread.png
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/serinaqu/Desktop/aidokon/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
